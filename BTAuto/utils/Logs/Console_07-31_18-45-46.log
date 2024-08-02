@@ -1,0 +1,163 @@
+2024-07-31 18:45:46,116 upv          initControlSocketwithIP INFO     Successfully Established UPV Socket @192.168.1.80:5025 
+2024-07-31 18:45:46,116 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing1 "triggered PEAQ"
+
+2024-07-31 18:45:46,116 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing2 "1000000"
+
+2024-07-31 18:45:46,116 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing3 "D:\UPV\OfflineTestTool\TriggeredRecord.set"
+
+2024-07-31 18:45:46,116 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing4 "D:\UPV\OfflineTestTool\OfflinePEAQ_Advanced.set"
+
+2024-07-31 18:45:46,116 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing5 "D:\UPV\OfflineTestTool\PEAQ_Ref_OTT_EQfilt.wav"
+
+2024-07-31 18:45:46,116 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing6 "empty"
+
+2024-07-31 18:45:46,116 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing7 "empty"
+
+2024-07-31 18:45:46,116 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing8 "empty"
+
+2024-07-31 18:45:46,116 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing9 "empty"
+
+2024-07-31 18:45:46,116 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing10 "2"
+
+2024-07-31 18:45:46,116 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing11 "empty"
+
+2024-07-31 18:45:46,116 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing12 "empty"
+
+2024-07-31 18:45:46,116 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing13 "empty"
+
+2024-07-31 18:45:46,116 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing14 "0.518"
+
+2024-07-31 18:45:46,116 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing15 "0.2"
+
+2024-07-31 18:45:46,116 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing16 "0.2"
+
+2024-07-31 18:45:46,116 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing17 "empty"
+
+2024-07-31 18:45:46,116 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing18 "False"
+
+2024-07-31 18:45:46,116 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing19 "0.03"
+
+2024-07-31 18:45:46,116 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing20 "400"
+
+2024-07-31 18:45:46,116 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing21 "True"
+
+2024-07-31 18:45:46,116 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing22 "True"
+
+2024-07-31 18:45:46,116 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing23 "True"
+
+2024-07-31 18:45:46,116 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing24 "D:\UPV\OfflineTestTool\Degraded\"
+
+2024-07-31 18:45:46,116 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing25 "empty"
+
+2024-07-31 18:45:46,116 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing26 "empty"
+
+2024-07-31 18:45:46,116 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing27 "empty"
+
+2024-07-31 18:45:46,116 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing28 "empty"
+
+2024-07-31 18:45:46,116 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing29 "empty"
+
+2024-07-31 18:45:46,117 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing30 "empty"
+
+2024-07-31 18:45:46,117 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing31 "empty"
+
+2024-07-31 18:45:46,117 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing32 "empty"
+
+2024-07-31 18:45:46,117 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing33 "empty"
+
+2024-07-31 18:45:46,117 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing34 "empty"
+
+2024-07-31 18:45:46,117 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing35 "empty"
+
+2024-07-31 18:45:46,117 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing36 "empty"
+
+2024-07-31 18:45:46,117 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing37 "True"
+
+2024-07-31 18:45:46,117 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing38 "empty"
+
+2024-07-31 18:45:46,117 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing39 "on"
+
+2024-07-31 18:45:46,117 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing40 "0"
+
+2024-07-31 18:45:46,117 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing41 "empty"
+
+2024-07-31 18:45:46,117 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing42 "0"
+
+2024-07-31 18:45:46,117 upv          OTTRun_Start         ERROR    Running OTTRun_kill
+2024-07-31 18:45:46,117 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:PROG:EXEC 'D:\UPV\OfflineTestTool\kill_OTT.exe'
+2024-07-31 18:45:46,117 upv          sendMsg              INFO     UPV ->Sending Message :*OPC?
+2024-07-31 18:45:46,385 upv          waitForOPC_getValue  INFO     		Recevied Message:1
+
+2024-07-31 18:45:46,385 upv          OTTRun_Start         ERROR    Running OTTRun_Configure
+2024-07-31 18:45:46,385 upv          sendMsg              INFO     UPV ->Sending Message :STAT:OPER:NTR 16384
+2024-07-31 18:45:46,386 upv          sendMsg              INFO     UPV ->Sending Message :STAT:OPER:ENAB 16384
+2024-07-31 18:45:46,386 upv          sendMsg              INFO     UPV ->Sending Message :*SRE 128
+2024-07-31 18:45:46,386 upv          sendMsg              INFO     UPV ->Sending Message :*OPC?
+2024-07-31 18:45:46,604 upv          waitForOPC_getValue  INFO     		Recevied Message:1
+
+2024-07-31 18:45:46,604 upv          OTTRun_Start         ERROR    Running OfflineTestTool.exe
+2024-07-31 18:45:46,604 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:PROG:EXEC 'C:\Program Files\Rohde&Schwarz\R&S Offline Test Tool\OfflineTestTool.exe'
+2024-07-31 18:45:46,604 upv          sendMsg              INFO     UPV ->Sending Message :*OPC?
+2024-07-31 18:45:46,822 upv          waitForOPC_getValue  INFO     		Recevied Message:1
+
+2024-07-31 18:46:22,758 upv          OTTRun_Monitor       INFO     UPV monitoring test run...
+2024-07-31 18:46:22,759 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing102?
+2024-07-31 18:46:22,760 upv          OTTRun_Monitor       INFO     UPV Testing On-Going
+2024-07-31 18:46:42,765 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing102?
+2024-07-31 18:46:42,767 upv          OTTRun_Monitor       INFO     UPV Testing On-Going
+2024-07-31 18:47:02,772 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing102?
+2024-07-31 18:47:02,774 upv          OTTRun_Monitor       INFO     UPV Testing On-Going
+2024-07-31 18:47:22,778 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing102?
+2024-07-31 18:47:22,780 upv          OTTRun_Monitor       INFO     UPV Testing On-Going
+2024-07-31 18:47:42,788 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing102?
+2024-07-31 18:47:42,789 upv          OTTRun_Monitor       INFO     UPV Testing On-Going
+2024-07-31 18:48:02,797 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing102?
+2024-07-31 18:48:02,799 upv          OTTRun_Monitor       INFO     UPV test iteration is completed...
+2024-07-31 18:48:02,799 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing104?
+2024-07-31 18:48:02,801 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing101?
+2024-07-31 18:48:02,802 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing102?
+2024-07-31 18:48:02,803 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing103?
+2024-07-31 18:48:02,804 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing104?
+2024-07-31 18:48:02,806 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing105?
+2024-07-31 18:48:02,807 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing106?
+2024-07-31 18:48:02,808 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing107?
+2024-07-31 18:48:02,810 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing108?
+2024-07-31 18:48:02,811 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing109?
+2024-07-31 18:48:02,812 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing110?
+2024-07-31 18:48:02,813 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing111?
+2024-07-31 18:48:02,815 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing112?
+2024-07-31 18:48:02,816 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing113?
+2024-07-31 18:48:02,818 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing114?
+2024-07-31 18:48:02,819 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing115?
+2024-07-31 18:48:02,820 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing116?
+2024-07-31 18:48:02,821 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing117?
+2024-07-31 18:48:02,821 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing118?
+2024-07-31 18:48:02,822 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing119?
+2024-07-31 18:48:02,823 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing120?
+2024-07-31 18:48:02,824 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing121?
+2024-07-31 18:48:02,825 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing122?
+2024-07-31 18:48:02,826 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing123?
+2024-07-31 18:48:02,827 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing124?
+2024-07-31 18:48:02,828 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing125?
+2024-07-31 18:48:02,828 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing126?
+2024-07-31 18:48:02,829 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing127?
+2024-07-31 18:48:02,830 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing128?
+2024-07-31 18:48:02,830 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing129?
+2024-07-31 18:48:02,831 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing130?
+2024-07-31 18:48:02,831 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing131?
+2024-07-31 18:48:02,832 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing132?
+2024-07-31 18:48:02,832 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing133?
+2024-07-31 18:48:02,833 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing134?
+2024-07-31 18:48:02,834 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing135?
+2024-07-31 18:48:02,835 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing136?
+2024-07-31 18:48:02,835 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing137?
+2024-07-31 18:48:02,836 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing138?
+2024-07-31 18:48:02,837 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing139?
+2024-07-31 18:48:02,837 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing140?
+2024-07-31 18:48:02,838 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing141?
+2024-07-31 18:48:02,839 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing142?
+2024-07-31 18:48:02,840 upv          sendMsg              INFO     UPV ->Sending Message :SYSTem:MEMory:STRing143?
+2024-07-31 18:48:02,841 upv          OTTRun_MonitorAndGetResults_A2DP INFO     ['triggered PEAQ', 'completed', '31/07/2024 18:55:45', 'empty', '-0.312', '-0.314', '-0.303', '1.931', '1.926', '1.950', '-21.125', '-22.805', '-21.925', '-27.727', '-29.411', '-28.528', '-24.000', '-24.000', '-24.000', '82.000', '40.000', '82.000', 'empty', 'empty', 'empty', 'empty', 'empty', 'empty', 'empty', 'empty', 'empty', 'empty', 'empty', 'empty', 'empty', 'empty', 'empty', 'empty', 'empty', 'empty', 'D:\\UPV\\OfflineTestTool\\Degraded\\\\PEAQ_Ref_OTT_EQfilt_9.wav', 'empty', 'empty']
+2024-07-31 18:48:02,841 upv          OTTRun_MonitorAndGetResults_A2DP INFO     ODGLeft:-0.312
+2024-07-31 18:48:02,841 upv          OTTRun_MonitorAndGetResults_A2DP INFO     ODGRight:-0.314
+2024-07-31 18:48:02,841 upv          OTTRun_MonitorAndGetResults_A2DP INFO     ODGStereo:-0.303

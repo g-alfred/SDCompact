@@ -1,0 +1,91 @@
+2024-08-02 00:51:33,071 attenuator   __init__             INFO     Attenuator connected: 1
+2024-08-02 00:51:50,169 attenuator   set_attn             INFO     ATTN 1 0, wait: 0.5 secs
+2024-08-02 00:51:50,380 attenuator   set_attn             INFO     
+ API Weinschel 8321 Attn System V2.60
+ Telnet Server
+ 
+ >ATTN 1 0
+ 
+ >
+2024-08-02 00:51:50,381 attenuator   set_attn             INFO     ATTN 2 12, wait: 0.5 secs
+2024-08-02 00:51:50,591 attenuator   set_attn             INFO     ATTN 2 12
+ 
+ >
+2024-08-02 00:58:26,501 attenuator   __init__             INFO     Attenuator connected: 1
+2024-08-02 00:58:43,876 attenuator   set_attn             INFO     ATTN 1 0, wait: 0.5 secs
+2024-08-02 00:58:44,078 attenuator   set_attn             INFO     
+ API Weinschel 8321 Attn System V2.60
+ Telnet Server
+ 
+ >ATTN 1 0
+ 
+ >
+2024-08-02 00:58:44,081 attenuator   set_attn             INFO     ATTN 2 12, wait: 0.5 secs
+2024-08-02 00:58:44,292 attenuator   set_attn             INFO     ATTN 2 12
+ 
+ >
+2024-08-02 01:01:27,835 attenuator   __init__             INFO     Attenuator connected: 1
+2024-08-02 01:01:45,179 attenuator   set_attn             INFO     ATTN 1 0, wait: 0.5 secs
+2024-08-02 01:01:45,390 attenuator   set_attn             INFO     
+ API Weinschel 8321 Attn System V2.60
+ Telnet Server
+ 
+ >ATTN 1 0
+ 
+ >
+2024-08-02 01:01:45,391 attenuator   set_attn             INFO     ATTN 2 12, wait: 0.5 secs
+2024-08-02 01:01:45,602 attenuator   set_attn             INFO     ATTN 2 12
+ 
+ >
+2024-08-02 01:03:11,735 attenuator   __init__             INFO     Attenuator connected: 1
+2024-08-02 01:03:28,732 attenuator   set_attn             INFO     ATTN 1 0, wait: 0.5 secs
+2024-08-02 01:03:28,938 attenuator   set_attn             INFO     
+ API Weinschel 8321 Attn System V2.60
+ Telnet Server
+ 
+ >ATTN 1 0
+ 
+ >
+2024-08-02 01:03:28,939 attenuator   set_attn             INFO     ATTN 2 12, wait: 0.5 secs
+2024-08-02 01:03:29,144 attenuator   set_attn             INFO     ATTN 2 12
+ 
+ >
+2024-08-02 01:06:09,694 attenuator   __init__             INFO     Attenuator connected: 1
+2024-08-02 01:06:26,658 attenuator   set_attn             INFO     ATTN 1 0, wait: 0.5 secs
+2024-08-02 01:06:26,864 attenuator   set_attn             INFO     
+ API Weinschel 8321 Attn System V2.60
+ Telnet Server
+ 
+ >ATTN 1 0
+ 
+ >
+2024-08-02 01:06:26,865 attenuator   set_attn             INFO     ATTN 2 12, wait: 0.5 secs
+2024-08-02 01:06:27,068 attenuator   set_attn             INFO     ATTN 2 12
+ 
+ >
+2024-08-02 01:09:01,285 attenuator   __init__             INFO     Attenuator connected: 1
+2024-08-02 01:09:18,511 attenuator   set_attn             INFO     ATTN 1 0, wait: 0.5 secs
+2024-08-02 01:09:18,722 attenuator   set_attn             INFO     
+ API Weinschel 8321 Attn System V2.60
+ Telnet Server
+ 
+ >ATTN 1 0
+ 
+ >
+2024-08-02 01:09:18,723 attenuator   set_attn             INFO     ATTN 2 12, wait: 0.5 secs
+2024-08-02 01:09:18,929 attenuator   set_attn             INFO     ATTN 2 12
+ 
+ >
+2024-08-02 01:15:36,102 attenuator   __init__             INFO     Attenuator connected: 1
+2024-08-02 01:15:53,809 attenuator   set_attn             INFO     ATTN 1 0, wait: 0.5 secs
+2024-08-02 01:15:54,020 attenuator   set_attn             INFO     
+ API Weinschel 8321 Attn System V2.60
+ Telnet Server
+ 
+ >ATTN 1 0
+ 
+ >
+2024-08-02 01:15:54,020 attenuator   set_attn             INFO     ATTN 2 12, wait: 0.5 secs
+2024-08-02 01:15:54,229 attenuator   set_attn             INFO     ATTN 2 12
+ 
+ >

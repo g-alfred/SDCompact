@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UPV</key>
+	<dict>
+		<key>POLQA</key>
+		<dict>
+			<key>ReadyTest</key>
+			<array>
+				<string>OUTPut ON</string>
+				<string>OUTPut:CHANnel CH#channel#</string>
+			</array>
+			<key>Command</key>
+			<dict>
+				<key>save</key>
+				<string>MMEMory:STORe:PWAVeform &apos;D:\\UPV\\FTP\\#WavFile#&apos;</string>
+				<key>init</key>
+				<string>INIT:IMM</string>
+				<key>getPOLQA</key>
+				<string>SENSe:DATA#channel#?</string>
+				<key>getAvgDelay</key>
+				<string>SENSe:FUNC:POLQA:AVGDelay?</string>
+				<key>getAttenuation</key>
+				<string>SENSe:FUNC:POLQA:ATTenuation?</string>
+			</dict>
+			<key>GeneratorConfig</key>
+			<array>
+				<string>INSTrument ANLG</string>
+				<string>OUTPut:CHANnel CH#channel#</string>
+				<string>OUTPut:TYPE BALanced</string>
+				<string>OUTPut:IMPedance R600</string>
+				<string>OUTPut:LOW GROUND</string>
+				<string>OUTPut:BANDwidth:MODE AUTO</string>
+				<string>SOURce:VOLTage:RANGe AUTO</string>
+				<string>SOURce:VOLTage:MAXimum 10 V</string>
+				<string>SOURce:VOLTage:REFerence 1 V</string>
+				<string>SOURce:FREQuency:REFerence 1000 HZ</string>
+			</array>
+			<key>GeneratorFunction</key>
+			<array>
+				<string>SOURce:FUNCtion PLAY</string>
+				<string>MMEMory:LOAD:ARBitrary &apos;C:\UPV\Config\ref\#loadWavFileName#&apos;</string>
+				<string>SOURce:PLAY:SCALepktofs ON</string>
+				<string>SOURce:PLAY:RESTart OFF</string>
+				<string>SOURce:PLAY:MODE TOSingle</string>
+				<string>SOURce:VOLTage:SELect VLVL</string>
+				<string>SOURce:VOLTage #inpeak# DBV</string>
+				<string>SOURce:VOLTage:CH2Stereo #inpeak# DBV</string>
+				<string>SOURce:AM:MODE OFF</string>
+				<string>SOURce:FILTer:CHANnels TRACk</string>
+				<string>SOURce:FILTer OFF</string>
+				<string>SOURce:VOLTage:OFFSet 0 V</string>
+				<string>SOURce:VOLTage:OFFSet:STATe OFF</string>
+			</array>
+			<key>AnalyzerConfig</key>
+			<array>
+				<string>INSTrument2 ANLG</string>
+				<string>INPut:CHANnel CH#channel#</string>
+				<string>INPut:COUPling AC</string>
+				<string>INPut:COUPling DC</string>
+				<string>INPut:BANDwidth:MODE B22</string>
+				<string>INPut:FILTer OFF</string>
+				<string>INPut:TYPE BALanced</string>
+				<string>INPut:IMPedance R600</string>
+				<string>INPut:COMMon FLOat</string>
+				<string>SENSe:VOLTage:RANGe:MODE FIXed</string>
+				<string>SENSe:VOLTage:RANGe:VALue #rxrange#</string>
+				<string>SENSe:POWer:REFerence:RESistance 600 OHM</string>
+				<string>TRIGger:SOURce AUTO</string>
+				<string>TRIGger:DELay 0 S</string>
+				<string>TRIGger:PLAYbefmeas OFF</string>
+				<string>SENSe:MAX:FFT:SIZE S256K</string>
+			</array>
+			<key>AnalyzerFunction</key>
+			<array>
+				<string>SENSe:FUNCtion POLQA</string>
+				<string>SENSe:FUNCtion:POLQa:BAND Wide</string>
+				<string>SENSe:FUNCtion:MMODe DUT</string>
+				<string>SENSe:FUNCtion:POLQa:AUTOgain OFF</string>
+				<string>SENSe:FUNCtion:POLQa:GAIN #rxgain# DB</string>
+				<string>SENSe:FILTer OFF</string>
+				<string>SENSe:FILTer2 OFF</string>
+				<string>SENSe:FILTer3 OFF</string>
+				<string>SENSe6:FUNCtion PEAK</string>
+				<string>SENSe2:FUNCtion OFF</string>
+				<string>SENSe3:FUNCtion OFF</string>
+				<string>SENSe7:MMODe STANdard</string>
+				<string>SENSe7:TRIGger:SOURce GENBurst</string>
+				<string>INPut:CHANnel CH2</string>
+				<string>INPut2:COUPling AC</string>
+				<string>INPut2:TYPE BALanced</string>
+				<string>INPut2:IMPedance R600</string>
+				<string>INPut2:COMMon FLOat</string>
+				<string>SENSe:VOLTage:RANGe2:MODE FIXed</string>
+				<string>OUTPut:CHANnel CH#channel#</string>
+			</array>
+			<key>QueryCommand</key>
+			<string>*OPC?\n</string>
+		</dict>
+		<key>PEAQ</key>
+		<dict>
+			<key>ReadyTest</key>
+			<array>
+				<string>OUTPut ON</string>
+			</array>
+			<key>GeneratorConfig</key>
+			<array>
+				<string>INSTrument ANLG</string>
+				<string>OUTPut:CHANnel OFF</string>
+				<string>OUTPut:TYPE UNBalanced</string>
+				<string>OUTPut:IMPedance R600</string>
+				<string>OUTPut:LOW FLOat</string>
+				<string>OUTPut:BANDwidth:MODE B22</string>
+				<string>SOURce:VOLTage:RANGe AUTO</string>
+				<string>SOURce:VOLTage:MAXimum 20 V</string>
+				<string>SOURce:VOLTage:REFerence 1 V</string>
+				<string>SOURce:FREQuency:REFerence 1000 HZ</string>
+			</array>
+			<key>GeneratorFunction</key>
+			<array>
+				<string>SOURce:FUNCtion PLAY</string>
+				<string>SOURce:PLAY:SCALepktofs ON</string>
+				<string>MMEMory:LOAD:ARBitrary &apos;d:\UPV\OfflineTestTool\PEAQ_Ref_OTT.wav&apos;</string>
+				<string>SOURce:PLAY:CHANnel STEReo</string>
+				<string>SOURce:PLAY:DELay 0 S</string>
+				<string>SOURce:PLAY:DELay2 0 S</string>
+				<string>SOURce:PLAY:MUTing OFF</string>
+				<string>SOURce:PLAY:RESTart AUTO</string>
+				<string>SOURce:PLAY:MODE TOSingle</string>
+				<string>SOURce:VOLTage:SELect VLRT</string>
+				<string>SOURce:VOLTage 0.10</string>
+				<string>SOURce:VOLTage:CH2Stereo 0.10</string>
+				<string>SOURce:AM:MODE OFF</string>
+				<string>SOURce:FILTer:CHANnels TRACk</string>
+				<string>SOURce:FILTer OFF</string>
+				<string>SOURce:VOLTage:OFFSet 0 V</string>
+				<string>SOURce:VOLTage:OFFSet:STATe OFF</string>
+			</array>
+			<key>AnalyzerConfig</key>
+			<array>
+				<string>INSTrument2 ANLG</string>
+				<string>INPut:CHANnel CH2is1</string>
+				<string>INPut:COUPling AC</string>
+				<string>INPut:BANDwidth:MODE B22</string>
+				<string>INPut:FILTer OFF</string>
+				<string>INPut:TYPE BALanced</string>
+				<string>INPut:IMPedance R200</string>
+				<string>INPut:COMMon FLOat</string>
+				<string>SENSe:VOLTage:RANGe:MODE FIXed</string>
+				<string>SENSe:VOLTage:RANGe:VALue 100.00</string>
+				<string>SENSe:POWer:REFerence:RESistance 600 OHM</string>
+				<string>TRIGger:SOURce AUTO</string>
+				<string>TRIGger:DELay 0 </string>
+				<string>TRIGger:PLAYbefmeas OFF</string>
+				<string>SENSe:MAX:FFT:SIZE S256K</string>
+				<string>TRIGger:PLAYbefmeas OFF</string>
+			</array>
+			<key>AnalyzerFunction</key>
+			<array>
+				<string>SENSe:FUNCtion PEAQ</string>
+				<string>SENSe:FUNCtion:PEAQ:VERSion Advanced</string>
+				<string>SENSe:FUNCtion:MMODe DUT</string>
+				<string>SENSe:FILTer OFF</string>
+				<string>SENSe:FILTer2 OFF</string>
+				<string>SENSe:FILTer3 OFF</string>
+				<string>SENSe6:FUNCtion PEAK</string>
+				<string>SENSe2:FUNCtion OFF</string>
+				<string>SENSe3:FUNCtion OFF</string>
+			</array>
+			<key>Command</key>
+			<dict>
+				<key>init</key>
+				<string>INIT:IMM</string>
+				<key>sense1</key>
+				<string>Sense6:data?</string>
+				<key>sense2</key>
+				<string>Sense6:data2?</string>
+				<key>delayDetect</key>
+				<string>SENSe:FUNC:PEAQ:DELDetect? </string>
+				<key>getScore</key>
+				<string>SENSe:DATA?</string>
+				<key>save</key>
+				<string>MMEMory:STORe:PWAVeform &apos;D:/UPV/FTP/#storeWavFileas#&apos;</string>
+				<key>getDistortionIndex</key>
+				<string>SENSe:DATA2?</string>
+				<key>getDelayMetric</key>
+				<string>SENSe:FUNC:PEAQ:AVGDelay?</string>
+			</dict>
+			<key>QueryCommand</key>
+			<string>*OPC?</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
